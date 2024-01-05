@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>Floating Frames</title>
+    </head>
+    <body>
+        <iframe name="float" src="/home/cec/salih/webprog/secpg.html" width="350px" height="200" ALIGN="center"></iframe>
+    </body>
+</html>
